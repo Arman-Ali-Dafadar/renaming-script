@@ -9,7 +9,7 @@ This script can be used to rename all the files in the same folder/directory in 
 - Prints all the previous file name with the new file name when changed.
 
 ## Setup
-1. 1. 1. Clone the repository
+1. Clone the repository
 <pre>git clone https://github.com/Arman-Ali-Dafadar/renaming-script.git
 cd renaming-script</pre>
 
